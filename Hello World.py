@@ -1,2 +1,2 @@
-#Projeto que diz Hello VPL#
+#Projeto que diz Hello, World!#
 print('Hello, World')
